@@ -17,6 +17,6 @@ For this Project I have used the below MLs:
 
 After Evaluating all the Model based on accuracy on testing data we found XG Boost Model is stable and provide better Accuracy for Predicting CLTV.
 
-##### With Outliers the Model Accuracy     : 77.48%(R^2)  | RMSE (2647.7554095)   | MAE (1253.8750966)
+###### With Outliers the Model Accuracy     : 77.48%(R^2)  | RMSE (2647.7554095)   | MAE (1253.8750966)
 
-##### Without Outliers the Model Accuracy : 84.43%(R^2) | RMSE (2239.0906101) | MAE (1041.9238513)
+###### Without Outliers the Model Accuracy : 84.43%(R^2) | RMSE (2239.0906101) | MAE (1041.9238513)
