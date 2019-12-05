@@ -9,7 +9,7 @@ Aim of this Project is to Explore how the Customer Life Time Value is Predicted.
 
 
 
-##### For this Project I have used the below MLs:
+#### For this Project I have used the below ML Algorithm:
 
 1. Multiple Linear Regression
 2. Random Forest Regression
